@@ -1,3 +1,3 @@
-# Cost-of-Living-
-This repository contains information about the cost of living in the different countries. 
-In this project we used different libraries of Python such as Pandas, NumPy, Matplotlib, Seaborn, etc.
+# Web Scrappin 
+## This repository based on web scrapping. In this we used Python libraries for extracting the data.
+## Python libraries such as BeautifulSoup, Requests, and Python.
